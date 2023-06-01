@@ -3,5 +3,4 @@
   <img style="width:40%" alt="yuri3gp's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri3gp&layout=compact&hide=html,twig,css&theme=tokyonight&langs_count=6">
 </div>
 
-<img align="center" alt="Snake animation" src="https://github.com/yuri3gp/yuri3gp/blob/output/github-contribution-grid-snake.svg">
-
+![Snake animation](https://github.com/yuri3gp/yuri3gp/blob/output/github-contribution-grid-snake.svg)
